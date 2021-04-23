@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitikaGupta
 - 👀 I’m interested in ReactJS, Angular, VueJS, FabricJS, CanvasJS, Bootstrap and all other upcoming UI technologies
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on latest UI technologies
 
 <!---
